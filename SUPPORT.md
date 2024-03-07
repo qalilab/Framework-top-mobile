@@ -1,9 +1,9 @@
 Support
 =======
 
-> Ce projet a un [code of conduct](https://github.com/yakanamani/Framework-basic-mobile-android/blob/main/CODE_OF_CONDUCT.md). En interagissant avec ce référentiel, cette organisation ou cette communauté, vous acceptez de vous conformer à ses conditions.
+> Ce projet a un [code of conduct](https://github.com/qalilab/Les-bases-de-l-automatisation/blob/main/CODE_OF_CONDUCT.md). En interagissant avec ce référentiel, cette organisation ou cette communauté, vous acceptez de vous conformer à ses conditions.
 
-Salut!👋Nous sommes ravis que vous utilisiez un projet Open Source maintenu par [ACS]((https://amani.consulting/fr/)) et nous serions ravis de vous aider. Pour nous aider à vous aider, veuillez lire les directives suivantes.
+Salut!👋Nous sommes ravis que vous utilisiez un projet Open Source maintenu par [qalilab]((https://qalilab.com/fr/)) et nous serions ravis de vous aider. Pour nous aider à vous aider, veuillez lire les directives suivantes.
 
 ## Project Bugs, Issues and Suggestions
 
@@ -11,4 +11,4 @@ Si vous rencontrez un bug ou avez une idée pour améliorer le projet, c'est sup
 
 ## Question sur ACS
 
-Pour toute demande générale sur Sauce Labs et sa plateforme, veuillez contacter notre équipe d'assistance à [yakan@amani.consulting](mailto:yakan@amani.consulting).
+Pour toute demande générale sur Sauce Labs et sa plateforme, veuillez contacter notre équipe d'assistance à [support@qalilab.com](mailto:support@qalilab.com).
